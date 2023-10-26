@@ -1,0 +1,17 @@
+footer{
+    background-color: black;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+
+@media (min-width: 360px) and (max-width: 700px) {
+    .footerinput{
+        width: 100px;
+    }
+
+    .cards{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+  }
